@@ -10,6 +10,7 @@
 // CountNum(array);
 // Console.WriteLine($"Чисел больше 0 -> {CountNum(array)}");
 
+
 // void FillArray(int[] array)
 // {
 //     for (int i = 0; i < array.Length; i++) 
@@ -20,12 +21,14 @@
 //     return ;
 // }
 
+
 // void PrintArray (int[] array)
 // { 
 //     for (int i = 0; i < array.Length; i++)
 //        Console.Write($"{array[i]}");
 //     Console.WriteLine();
 // }
+
 
 // int CountNum (int[] array)
 // {
@@ -52,6 +55,8 @@
 // double b2 = Convert.ToDouble(Console.ReadLine());
 // double x=0;
 // double y=0;
+
+
 // if (b1 == b2 & k1 == k2) Console.WriteLine("Прямые совпадают");
 // else if (k1 == k2) Console.WriteLine("Прямые параллельны друг другу");
 // else 
